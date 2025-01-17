@@ -1,0 +1,24 @@
+Chapter 2 - Foundation for inference
+1.51 - 1.54 -> 2.1  - 2.4  (update to be 2-sided)
+6.51 - 6.52 -> 2.5  - 2.6  (update)
+New1 - 2    -> 2.7  - 2.8  (NEEDED)
+6.49 - 6.50 -> 2.9  - 2.10 (check)
+New3 - 6    -> 2.11 - 2.14 (NEEDED)
+3.1  - 3.20 -> 2.15 - 2.34 
+New7 - 12   -> 2.35 - 2.40 (NEEDED)
+
+Chapter 3 - Inference for categorical data
+6.1  - 6.46 -> 3.1  - 3.46
+
+Chapter 4 - Inference for numerical data
+5.15 - 5.22 -> 4.1  - 4.8
+5.1  - 5.6  -> 4.9  - 4.14
+5.7  - 5.14 -> 4.15 - 4.22
+5.23 - 5.36 -> 4.23 - 4.36
+5.37 - 5.45 -> 4.37 - 4.45
+
+Chapter 5
+7.1  - 7.X  -> 5.1  - 5.X
+
+Chapter 8
+8.1  - 8.X  -> 6.1  - 6.X

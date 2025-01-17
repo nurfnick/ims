@@ -1,0 +1,444 @@
+\begin{theindex}
+
+  \item $t$ distribution, \hyperpage{166--169}
+  \item 95\% confidence interval, \hyperindexformat{\textbf}{103}
+
+  \indexspace
+
+  \item $A^c$, \hyperpage{301}
+  \item Addition Rule, \hyperindexformat{\textbf}{297}
+  \item adjusted $R^2$ ($R_{adj}^2$), \hyperindexformat{\textbf}{266}, 
+		\hyperpage{265--266}
+  \item alternative hypothesis, \hyperindexformat{\textbf}{68}
+  \item alternative hypothesis ($H_A$), \hyperindexformat{\textbf}{68}
+  \item analysis of variance (ANOVA), \hyperindexformat{\textbf}{184}, 
+		\hyperpage{184--195}, \hyperpage{243}
+  \item anecdotal evidence, \hyperindexformat{\textbf}{9}
+  \item associated, \hyperindexformat{\textbf}{8}
+
+  \indexspace
+
+  \item backward-elimination, \hyperindexformat{\textbf}{268}
+  \item bar plot, \hyperindexformat{\textbf}{35}
+    \subitem segmented bar plot, \hyperindexformat{\textbf}{38}
+  \item bias, \hyperindexformat{\textbf}{11}
+  \item blind, \hyperindexformat{\textbf}{19}
+  \item blocking, \hyperindexformat{\textbf}{17}
+  \item blocks, \hyperindexformat{\textbf}{17}
+  \item Bonferroni correction, \hyperindexformat{\textbf}{194}
+  \item bootstrap distribution, \hyperindexformat{\textbf}{196}
+  \item bootstrap sample, \hyperindexformat{\textbf}{196}
+  \item box plot, \hyperindexformat{\textbf}{28}
+    \subitem side-by-side box plot, \hyperpage{40}
+
+  \indexspace
+
+  \item case, \hyperindexformat{\textbf}{4}
+  \item categorical, \hyperindexformat{\textbf}{6}
+  \item Central Limit Theorem, \hyperpage{82}
+    \subitem difference in proportions, \hyperpage{82}
+    \subitem proportion, \hyperpage{82}
+  \item chi-square distribution, \hyperindexformat{\textbf}{136}
+  \item chi-square table, \hyperindexformat{\textbf}{137}
+  \item cohort, \hyperindexformat{\textbf}{13}
+  \item collections, \hyperpage{298}
+  \item collinear, \hyperindexformat{\textbf}{265}
+  \item column totals, \hyperindexformat{\textbf}{35}
+  \item complement, \hyperindexformat{\textbf}{301}
+  \item condition, \hyperindexformat{\textbf}{308}
+  \item conditional probability, \hyperindexformat{\textbf}{308}, 
+		\hyperpage{308--310}
+  \item confidence interval, \hyperindexformat{\textbf}{83}, 
+		\hyperindexformat{\textbf}{102}, \hyperpage{102--107}, 
+		\hyperpage{275}
+    \subitem confidence level, \hyperpage{105--106}
+    \subitem interpretation, \hyperpage{107}
+  \item confident, \hyperindexformat{\textbf}{103}
+  \item confirmation bias, \hyperindexformat{\textbf}{73}
+  \item confounder, \hyperindexformat{\textbf}{14}
+  \item confounding factor, \hyperindexformat{\textbf}{14}
+  \item confounding variable, \hyperindexformat{\textbf}{14}
+  \item contingency table, \hyperindexformat{\textbf}{35}
+    \subitem column proportion, \hyperindexformat{\textbf}{36}
+    \subitem column totals, \hyperpage{35}
+    \subitem row proportions, \hyperindexformat{\textbf}{36}
+    \subitem row totals, \hyperpage{35}
+  \item continuous, \hyperindexformat{\textbf}{6}
+  \item control, \hyperindexformat{\textbf}{17}
+  \item control group, \hyperindexformat{\textbf}{2}, 
+		\hyperindexformat{\textbf}{19}
+  \item convenience sample, \hyperindexformat{\textbf}{11}
+  \item correlation, \hyperindexformat{\textbf}{226}, 
+		\hyperpage{226--227}
+
+  \indexspace
+
+  \item data, \hyperindexformat{\textbf}{1}
+    \subitem approval ratings, \hyperpage{148--149}
+    \subitem baby\_smoke, \hyperpage{179--181}
+    \subitem cancer in dogs, herbicide, \hyperpage{131--133}
+    \subitem cars, \hyperpage{20}
+    \subitem Congress approval rating, \hyperpage{128}
+    \subitem county, \hyperpage{4--8}, \hyperpage{12}, 
+		\hyperpage{32--35}, \hyperpage{40--42}
+    \subitem CPR and blood thinner, \hyperpage{74--75}
+    \subitem discrimination, \hyperpage{61--65}
+    \subitem dolphins and mercury, \hyperpage{169--171}
+    \subitem drug\_use, \hyperpage{306--310}
+    \subitem email, \hyperpage{35--40}, \hyperpage{275--284}, 
+		\hyperpage{298}, \hyperpage{300}
+    \subitem email50, \hyperpage{3--4}, \hyperpage{20--31}
+    \subitem health care, \hyperpage{129--130}
+    \subitem mario\_kart, \hyperpage{261--275}
+    \subitem medical consultant, \hyperpage{77--79}
+    \subitem midterm elections, \hyperpage{238--242}
+    \subitem MLB batting, \hyperpage{186--191}
+    \subitem possum, \hyperpage{221--225}
+    \subitem racial make-up of jury, \hyperpage{134--136}, 
+		\hyperpage{138--140}
+    \subitem S\&P500 stock data, \hyperpage{141--144}
+    \subitem search algorithm, \hyperpage{144--148}
+    \subitem smallpox, \hyperpage{310--313}
+    \subitem stem cells, heart function, \hyperpage{176--178}
+    \subitem stroke, \hyperpage{1--3}, \hyperpage{6}
+    \subitem supreme court, \hyperpage{124--125}
+    \subitem textbooks, \hyperpage{173--176}
+    \subitem two exam comparison, \hyperpage{181--183}
+    \subitem white fish and mercury, \hyperpage{172}
+  \item data density, \hyperindexformat{\textbf}{23}
+  \item data fishing, \hyperindexformat{\textbf}{187}
+  \item data matrix, \hyperindexformat{\textbf}{4}
+  \item data snooping, \hyperindexformat{\textbf}{187}
+  \item deck of cards, \hyperpage{299}
+  \item degrees of freedom (df)
+    \subitem $t$ distribution, \hyperindexformat{\textbf}{166}
+    \subitem chi-square, \hyperindexformat{\textbf}{136}
+    \subitem regression, \hyperindexformat{\textbf}{266}
+  \item dependent, \hyperindexformat{\textbf}{8}, 
+		\hyperindexformat{\textbf}{12}
+  \item deviation, \hyperindexformat{\textbf}{25}
+  \item df, \hyperindexformat{\see{degrees of freedom (df)}}{345}
+  \item discrete, \hyperindexformat{\textbf}{6}
+  \item disjoint, \hyperindexformat{\textbf}{297}, \hyperpage{297--298}
+  \item distribution, \hyperindexformat{\textbf}{21}
+    \subitem normal, \hyperindexformat{\textbf}{85}
+  \item dot plot, \hyperindexformat{\textbf}{21}
+  \item double-blind, \hyperindexformat{\textbf}{19}
+
+  \indexspace
+
+  \item event, \hyperindexformat{\textbf}{298}, \hyperpage{298}
+  \item $E(X)$, \hyperpage{316}
+  \item expectation, \hyperpage{316--317}
+  \item expected value, \hyperindexformat{\textbf}{316}
+  \item experiment, \hyperindexformat{\textbf}{13}, 
+		\hyperindexformat{\textbf}{17}
+  \item explanatory, \hyperindexformat{\textbf}{12}
+  \item extrapolation, \hyperindexformat{\textbf}{233}
+
+  \indexspace
+
+  \item F test, \hyperindexformat{\textbf}{189}
+  \item face card, \hyperindexformat{\textbf}{299}
+  \item failure, \hyperindexformat{\textbf}{123}
+  \item first quartile, \hyperindexformat{\textbf}{28}
+  \item forward-selection, \hyperindexformat{\textbf}{269}
+  \item frequency table, \hyperindexformat{\textbf}{35}
+  \item full model, \hyperindexformat{\textbf}{266}
+
+  \indexspace
+
+  \item gambler's fallacy, \hyperindexformat{\textbf}{312}
+  \item General Addition Rule, \hyperindexformat{\textbf}{300}
+  \item General Multiplication Rule, \hyperindexformat{\textbf}{311}
+  \item generalized linear model, \hyperindexformat{\textbf}{275}
+  \item Greek
+    \subitem beta ($\beta$), \hyperpage{219}
+    \subitem mu ($\mu$), \hyperpage{22}
+    \subitem mu ($\mu $), \hyperpage{317}
+    \subitem sigma ($\sigma$), \hyperpage{26}
+    \subitem sigma ($\sigma $), \hyperpage{318}
+
+  \indexspace
+
+  \item high leverage, \hyperindexformat{\textbf}{236}
+  \item histogram, \hyperindexformat{\textbf}{23}
+  \item hollow histogram, \hyperindexformat{\textbf}{40}
+  \item hypothesis test, \hyperindexformat{\textbf}{63}, 
+		\hyperindexformat{\textbf}{68}
+  \item hypothesis testing
+    \subitem decision errors, \hyperpage{72--73}
+    \subitem p-value, \hyperindexformat{\textbf}{70}
+    \subitem significance level, \hyperpage{71}, \hyperpage{73}
+    \subitem statistically significant, \hyperindexformat{\textbf}{71}
+    \subitem two tails, \hyperpage{73--77}
+
+  \indexspace
+
+  \item independent, \hyperindexformat{\textbf}{8}, 
+		\hyperindexformat{\textbf}{12}, 
+		\hyperindexformat{\textbf}{304}
+  \item indicator variable, \hyperindexformat{\textbf}{234}, 
+		\hyperpage{261}, \hyperpage{276}
+  \item influential point, \hyperindexformat{\textbf}{236}
+  \item intensity map, \hyperindexformat{\textbf}{32}, 
+		\hyperpage{32--35}
+  \item interquartile range, \hyperindexformat{\textbf}{28}, 
+		\hyperpage{29}
+  \item IQR, \hyperindexformat{\textbf}{28}
+
+  \indexspace
+
+  \item joint probability, \hyperindexformat{\textbf}{307}, 
+		\hyperpage{307--308}
+
+  \indexspace
+
+  \item key, \hyperindexformat{\textbf}{123}
+
+  \indexspace
+
+  \item Law of Large Numbers, \hyperindexformat{\textbf}{296}
+  \item least squares criterion, \hyperindexformat{\textbf}{229}
+  \item least squares line, \hyperindexformat{\textbf}{229}
+  \item least squares regression, \hyperpage{227--231}
+    \subitem extrapolation, \hyperpage{232--233}
+    \subitem interpreting parameters, \hyperpage{232}
+    \subitem R-squared ($R^2$), \hyperindexformat{\textbf}{233}, 
+		\hyperpage{233--234}
+  \item levels, \hyperindexformat{\textbf}{6}
+  \item linear combination, \hyperindexformat{\textbf}{320}
+  \item linear regression, \hyperindexformat{\textbf}{219}
+  \item logistic regression, \hyperindexformat{\textbf}{275}, 
+		\hyperpage{275--284}
+  \item logit transformation, \hyperindexformat{\textbf}{277}
+  \item long tail, \hyperindexformat{\textbf}{24}
+  \item lurking variable, \hyperindexformat{\textbf}{14}
+
+  \indexspace
+
+  \item margin of error, \hyperindexformat{\textbf}{106}, 
+		\hyperpage{127--128}
+  \item marginal probability, \hyperindexformat{\textbf}{307}, 
+		\hyperpage{307--308}
+  \item mean, \hyperindexformat{\textbf}{21}
+    \subitem average, \hyperpage{21}
+    \subitem weighted mean, \hyperpage{23}
+  \item mean square between groups ($MSG$), 
+		\hyperindexformat{\textbf}{188}
+  \item mean square error ($MSE$), \hyperindexformat{\textbf}{188}
+  \item median, \hyperindexformat{\textbf}{28}
+  \item midterm election, \hyperpage{238}
+  \item modality
+    \subitem bimodal, \hyperindexformat{\textbf}{24}
+    \subitem multimodal, \hyperindexformat{\textbf}{24}
+    \subitem unimodal, \hyperindexformat{\textbf}{24}
+  \item mode, \hyperindexformat{\textbf}{24}
+  \item model selection, \hyperpage{266--270}
+  \item mosaic plot, \hyperindexformat{\textbf}{38}
+  \item multiple comparisons, \hyperindexformat{\textbf}{194}
+  \item multiple regression, \hyperpage{235}, 
+		\hyperindexformat{\textbf}{263}, \hyperpage{261--275}
+    \subitem model assumptions, \hyperpage{271--275}
+  \item Multiplication Rule, \hyperindexformat{\textbf}{305}
+  \item multistage sampling, \hyperindexformat{\textbf}{16}
+  \item mutually exclusive, \hyperindexformat{\textbf}{297}, 
+		\hyperpage{297--298}
+
+  \indexspace
+
+  \item natural splines, \hyperindexformat{\textbf}{281}
+  \item negative association, \hyperindexformat{\textbf}{8}
+  \item nominal, \hyperindexformat{\textbf}{6}
+  \item non-response, \hyperindexformat{\textbf}{11}
+  \item non-response\nobreakspace  {}bias, 
+		\hyperindexformat{\textbf}{11}
+  \item normal curve, \hyperindexformat{\textbf}{85}
+  \item normal distribution, \hyperpage{85--98}
+  \item normal model, \hyperindexformat{\textbf}{85}
+  \item normal probability plot, \hyperindexformat{\textbf}{95}
+  \item normal probability table, \hyperindexformat{\textbf}{88}
+  \item null distribution, \hyperindexformat{\textbf}{75, 76}
+  \item null hypothesis, \hyperindexformat{\textbf}{68}
+  \item null hypothesis ($H_0$), \hyperindexformat{\textbf}{68}
+  \item null value, \hyperindexformat{\textbf}{78}
+  \item numerical, \hyperindexformat{\textbf}{6}
+
+  \indexspace
+
+  \item observational study, \hyperindexformat{\textbf}{13}
+  \item observational unit, \hyperindexformat{\textbf}{4}
+  \item one-sided hypothesis tests, \hyperindexformat{\textbf}{74}
+  \item ordinal, \hyperindexformat{\textbf}{6}
+  \item outcome, \hyperindexformat{\textbf}{296}
+  \item outlier, \hyperindexformat{\textbf}{29}
+
+  \indexspace
+
+  \item p-value, \hyperindexformat{\textbf}{70}
+  \item paired, \hyperindexformat{\textbf}{173}
+  \item paired data, \hyperpage{173--176}
+  \item parameter, \hyperindexformat{\textbf}{78}, 
+		\hyperindexformat{\textbf}{86}, \hyperpage{219}
+  \item patients, \hyperindexformat{\textbf}{19}
+  \item percentile, \hyperindexformat{\textbf}{28}, 
+		\hyperindexformat{\textbf}{88}
+  \item permutation test, \hyperindexformat{\textbf}{63}
+  \item pie chart, \hyperindexformat{\textbf}{40}
+  \item placebo, \hyperindexformat{\textbf}{13}, 
+		\hyperindexformat{\textbf}{19}
+  \item placebo\nobreakspace  {}effect, \hyperindexformat{\textbf}{19}
+  \item point estimate, \hyperindexformat{\textbf}{22}, 
+		\hyperindexformat{\textbf}{62}, 
+		\hyperindexformat{\textbf}{71}, \hyperpage{78}
+    \subitem difference of means, \hyperpage{176--178}
+    \subitem difference of proportions, \hyperpage{128}
+    \subitem single proportion, \hyperpage{124}
+  \item point-slope, \hyperindexformat{\textbf}{230}
+  \item pooled estimate, \hyperindexformat{\textbf}{133}
+  \item pooled standard deviation, \hyperindexformat{\textbf}{184}
+  \item population, \hyperindexformat{\textbf}{9}, \hyperpage{9--12}
+  \item positive association, \hyperindexformat{\textbf}{8}
+  \item predictor, \hyperindexformat{\textbf}{219}
+  \item primary, \hyperindexformat{\textbf}{313}
+  \item probability, \hyperindexformat{\textbf}{296}, 
+		\hyperpage{295--296}
+  \item probability distribution, \hyperindexformat{\textbf}{300}
+  \item probability sample, \hyperindexformat{\see{sample}}{345}
+  \item prosecutor's fallacy, \hyperindexformat{\textbf}{188}
+  \item prospective study, \hyperindexformat{\textbf}{14}
+
+  \indexspace
+
+  \item Q$_1$, \hyperpage{28}
+  \item Q$_3$, \hyperpage{28}
+  \item quantile-quantile plot, \hyperindexformat{\textbf}{95}
+  \item quartile
+    \subitem first quartile, \hyperpage{28}
+    \subitem third quartile, \hyperpage{28}
+
+  \indexspace
+
+  \item random process, \hyperindexformat{\textbf}{296}, 
+		\hyperpage{296--297}
+  \item random variable, \hyperindexformat{\textbf}{316}, 
+		\hyperpage{315--323}
+  \item randomization, \hyperindexformat{\textbf}{63}
+  \item randomized experiment, \hyperindexformat{\textbf}{13}, 
+		\hyperindexformat{\textbf}{17}
+  \item relative frequency table, \hyperindexformat{\textbf}{35}
+  \item replicate, \hyperindexformat{\textbf}{17}
+  \item representative, \hyperindexformat{\textbf}{11}
+  \item residual, \hyperindexformat{\textbf}{191}, 
+		\hyperindexformat{\textbf}{223}, \hyperpage{223--226}
+  \item residual plot, \hyperindexformat{\textbf}{225}
+  \item response, \hyperindexformat{\textbf}{12}
+  \item retrospective studies, \hyperindexformat{\textbf}{14}
+  \item robust estimates, \hyperindexformat{\textbf}{30}
+  \item row totals, \hyperindexformat{\textbf}{35}
+
+  \indexspace
+
+  \item $S$, \hyperpage{301}
+  \item $s$, \hyperpage{26}
+  \item sample, \hyperindexformat{\textbf}{9}, \hyperpage{9--12}
+    \subitem cluster sample, \hyperindexformat{\textbf}{16}
+    \subitem convenience sample, \hyperpage{11}
+    \subitem non-response, \hyperindexformat{\textbf}{11}
+    \subitem non-response bias, \hyperindexformat{\textbf}{11}
+    \subitem random sample, \hyperpage{10--12}
+    \subitem simple random sampling, \hyperindexformat{\textbf}{14}
+    \subitem strata, \hyperindexformat{\textbf}{16}
+    \subitem stratified sampling, \hyperindexformat{\textbf}{16}
+  \item sample space, \hyperindexformat{\textbf}{301}
+  \item sample statistic, \hyperpage{30}
+  \item sampling with replacement, \hyperindexformat{\textbf}{196}
+  \item scatterplot, \hyperpage{7}, \hyperindexformat{\textbf}{20}
+  \item secondary, \hyperindexformat{\textbf}{313}
+  \item sets, \hyperpage{298}
+  \item side-by-side box plot, \hyperindexformat{\textbf}{40}
+  \item significance level, \hyperindexformat{\textbf}{71}, 
+		\hyperpage{71}, \hyperpage{73}
+    \subitem multiple comparisons, \hyperpage{191--195}
+  \item simple random sample, \hyperindexformat{\textbf}{11}
+  \item simulation, \hyperindexformat{\textbf}{63}
+  \item skew
+    \subitem example: extreme, \hyperpage{31}
+    \subitem example: moderate, \hyperpage{165}
+    \subitem example: slight to moderate, \hyperpage{42}
+    \subitem example: strong, \hyperpage{84}, \hyperpage{174}, 
+		\hyperpage{179}
+    \subitem example: very strong, \hyperpage{24}, \hyperpage{96}
+    \subitem left skewed, \hyperindexformat{\textbf}{23}
+    \subitem long tail, \hyperindexformat{\textbf}{24}
+    \subitem right skewed, \hyperindexformat{\textbf}{23}
+    \subitem strong skew, \hyperpage{29}
+    \subitem symmetric, \hyperpage{23}
+    \subitem tail, \hyperpage{23}
+  \item standard deviation, \hyperindexformat{\textbf}{26}, 
+		\hyperpage{317}
+  \item standard error
+    \subitem difference in means, \hyperpage{178}
+    \subitem difference in proportions, \hyperpage{129}
+    \subitem single proportion, \hyperpage{124}
+  \item standard error (SE), \hyperindexformat{\textbf}{99}
+  \item standard normal distribution, \hyperindexformat{\textbf}{85}
+  \item statistically significant, \hyperindexformat{\textbf}{67}, 
+		\hyperindexformat{\textbf}{71}
+  \item stepwise, \hyperindexformat{\textbf}{268}
+  \item strata, \hyperindexformat{\textbf}{16}
+  \item study participants, \hyperindexformat{\textbf}{19}
+  \item success, \hyperindexformat{\textbf}{67}, 
+		\hyperindexformat{\textbf}{123}
+  \item success-failure condition, \hyperindexformat{\textbf}{124}
+  \item suits, \hyperindexformat{\textbf}{299}
+  \item sum of squared errors ($SSE$), \hyperindexformat{\textbf}{188}
+  \item sum of squares between groups, \hyperindexformat{\textbf}{188}
+  \item sum of squares total ($SST$), \hyperindexformat{\textbf}{188}
+  \item summary statistic, \hyperindexformat{\textbf}{3}, \hyperpage{7}, 
+		\hyperpage{30}
+  \item symmetric, \hyperindexformat{\textbf}{23}
+
+  \indexspace
+
+  \item T score, \hyperindexformat{\textbf}{173}
+  \item t table, \hyperindexformat{\textbf}{167}
+  \item table proportions, \hyperindexformat{\textbf}{307}
+  \item tail, \hyperindexformat{\textbf}{23}
+  \item test statistic, \hyperindexformat{\textbf}{70}
+  \item the outcome of interest, \hyperindexformat{\textbf}{308}
+  \item third quartile, \hyperindexformat{\textbf}{28}
+  \item time series, \hyperindexformat{\textbf}{238}, 
+		\hyperindexformat{\textbf}{272}
+  \item transformation, \hyperindexformat{\textbf}{31}
+  \item treatment group, \hyperindexformat{\textbf}{2}, 
+		\hyperindexformat{\textbf}{19}
+  \item tree diagram, \hyperindexformat{\textbf}{313}, \hyperpage{313}
+  \item trial, \hyperindexformat{\textbf}{123}
+  \item two-sided hypothesis tests, \hyperindexformat{\textbf}{74}
+  \item Type\nobreakspace  {}1 Error, \hyperindexformat{\textbf}{72}
+  \item Type\nobreakspace  {}2 Error, \hyperindexformat{\textbf}{72}
+
+  \indexspace
+
+  \item unit of observation, \hyperindexformat{\textbf}{4}
+
+  \indexspace
+
+  \item variability, \hyperpage{25}, \hyperpage{28}
+  \item variable, \hyperindexformat{\textbf}{4}
+  \item variance, \hyperindexformat{\textbf}{26}, \hyperpage{317}
+  \item Venn diagrams, \hyperindexformat{\textbf}{299}
+  \item volunteers, \hyperindexformat{\textbf}{19}
+
+  \indexspace
+
+  \item weighted mean, \hyperindexformat{\textbf}{23}
+  \item whiskers, \hyperindexformat{\textbf}{29}
+
+  \indexspace
+
+  \item $Z$, \hyperpage{87}
+  \item Z score, \hyperindexformat{\textbf}{87}
+
+\end{theindex}

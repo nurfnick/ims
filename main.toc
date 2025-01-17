@@ -1,0 +1,421 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction to data}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Case study}{1}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Data basics}{3}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}Observations, variables, and data matrices}{3}{subsection.1.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.2}Types of variables}{7}{subsection.1.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.3}Relationships between variables}{8}{subsection.1.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Overview of data collection principles}{10}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.1}Populations and samples}{10}{subsection.1.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.2}Anecdotal evidence}{10}{subsection.1.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.3}Sampling from a population}{11}{subsection.1.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.4}Explanatory and response variables}{13}{subsection.1.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.5}Introducing observational studies and experiments}{14}{subsection.1.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Observational studies and sampling strategies}{14}{section.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.1}Observational studies}{14}{subsection.1.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.2}Three sampling methods (special topic)}{15}{subsection.1.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}Experiments}{18}{section.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.1}Principles of experimental design}{18}{subsection.1.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.2}Reducing bias in human experiments}{18}{subsection.1.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.6}Examining numerical data}{20}{section.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.1}Scatterplots for paired data}{21}{subsection.1.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.2}Dot plots and the mean}{22}{subsection.1.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.3}Histograms and shape}{24}{subsection.1.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.4}Variance and standard deviation}{27}{subsection.1.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.5}Box plots, quartiles, and the median}{30}{subsection.1.6.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.6}Robust statistics}{32}{subsection.1.6.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.7}Percentiles}{33}{subsection.1.6.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.8}Transforming data (special topic)}{34}{subsection.1.6.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.9}Mapping data (special topic)}{35}{subsection.1.6.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.7}Considering categorical data}{38}{section.1.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.7.1}Contingency tables and bar plots}{38}{subsection.1.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.7.2}Row and column proportions}{40}{subsection.1.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.7.3}Segmented bar and mosaic plots}{41}{subsection.1.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.7.4}The only pie chart you will see in this book}{44}{subsection.1.7.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.7.5}Comparing numerical data across groups}{44}{subsection.1.7.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.8}Exercises}{47}{section.1.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.8.1}Case study}{47}{subsection.1.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.8.2}Data basics}{48}{subsection.1.8.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.8.3}Overview of data collection principles}{49}{subsection.1.8.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.8.4}Observational studies and sampling strategies}{50}{subsection.1.8.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.8.5}Experiments}{53}{subsection.1.8.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.8.6}Examining numerical data}{54}{subsection.1.8.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.8.7}Considering categorical data}{62}{subsection.1.8.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Foundation for inference}{65}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Randomization case study: gender discrimination}{65}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}Variability within data}{65}{subsection.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}Simulating the study}{67}{subsection.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.3}Checking for independence}{68}{subsection.2.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Randomization case study: opportunity cost}{69}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Exploring the data set before the analysis}{70}{subsection.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Results from chance alone}{71}{subsection.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Hypothesis testing}{72}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Hypothesis testing in the US court system}{74}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}p-value and statistical significance}{74}{subsection.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.3}Decision errors}{76}{subsection.2.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.4}Choosing a significance level}{77}{subsection.2.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.5}Introducing two-sided hypotheses}{77}{subsection.2.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.6}Controlling the Type\nobreakspace {}1 Error\nobreakspace {}rate}{80}{subsection.2.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.7}How to use a hypothesis test}{81}{subsection.2.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Simulation case studies}{81}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}Medical consultant}{81}{subsection.2.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.2}Tappers and listeners}{84}{subsection.2.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Central Limit Theorem}{85}{section.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.1}Null distribution from the case studies}{85}{subsection.2.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.2}Examples of future settings we will consider}{87}{subsection.2.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}Normal distribution}{89}{section.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.1}Normal distribution model}{89}{subsection.2.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.2}Standardizing with Z scores}{90}{subsection.2.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.3}Normal probability table}{92}{subsection.2.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.4}Normal probability examples}{94}{subsection.2.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.5}68-95-99.7 rule}{98}{subsection.2.6.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.6}Evaluating the normal approximation}{99}{subsection.2.6.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.7}Applying the normal model}{103}{section.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.1}Standard error}{103}{subsection.2.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.2}Normal model application: opportunity cost}{103}{subsection.2.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.3}Normal model application: medical consultant}{105}{subsection.2.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.4}Conditions for applying the normal model}{106}{subsection.2.7.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.8}Confidence intervals}{106}{section.2.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.8.1}Capturing the population parameter}{106}{subsection.2.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.8.2}Constructing a 95\% confidence interval}{107}{subsection.2.8.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.8.3}Changing the confidence level}{109}{subsection.2.8.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.8.4}Interpreting confidence intervals}{111}{subsection.2.8.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.9}Bootstrapping to Compute The Standard Error}{111}{section.2.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.9.1}Bootstrap samples and distributions}{111}{subsection.2.9.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.9.2}Inference using the bootstrap}{112}{subsection.2.9.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.9.3}Bootstrap When Not Normal}{115}{subsection.2.9.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Inference for categorical data}{116}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Inference for a single proportion}{116}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}When the sample proportion is nearly normal}{117}{subsection.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}Confidence intervals for a proportion}{117}{subsection.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.3}Hypothesis testing for a proportion}{118}{subsection.3.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.4}Choosing a sample size when estimating a proportion}{120}{subsection.3.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Difference of two proportions}{121}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}Sample distribution of the difference of two proportions}{122}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Intervals and tests for $p_1 -p_2$}{122}{subsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.3}Hypothesis testing when $H_0: p_1=p_2$}{124}{subsection.3.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Testing for goodness of fit using chi-square (special topic)}{127}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Creating a test statistic for one-way tables}{127}{subsection.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}The chi-square test statistic}{128}{subsection.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.3}The chi-square distribution and finding areas}{129}{subsection.3.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.4}Finding a p-value for a chi-square distribution}{131}{subsection.3.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.5}Evaluating goodness of fit for a distribution}{134}{subsection.3.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Testing for independence in two-way tables (special topic)}{137}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.1}Expected counts in two-way tables}{138}{subsection.3.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.2}The chi-square test for two-way tables}{140}{subsection.3.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Exercises}{143}{section.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.1}Inference for a single proportion}{143}{subsection.3.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.2}Difference of two proportions}{148}{subsection.3.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.3}Testing for goodness of fit using chi-square}{153}{subsection.3.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.4}Testing for independence in two-way tables}{154}{subsection.3.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Inference for numerical data}{156}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}One-sample means with the $t$ distribution}{156}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}Two examples using the normal distribution}{156}{subsection.4.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}Introducing the $t$ distribution}{159}{subsection.4.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.3}Applying the $t$ distribution to the single-mean situation}{162}{subsection.4.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.4}One sample $t$ confidence intervals}{163}{subsection.4.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.5}One sample $t$ tests}{165}{subsection.4.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Paired data}{166}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Paired observations}{166}{subsection.4.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}Inference for paired data}{167}{subsection.4.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Difference of two means}{169}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Confidence interval for a differences of means}{169}{subsection.4.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Hypothesis tests based on a difference in means}{172}{subsection.4.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.3}Case study: two versions of a course exam}{174}{subsection.4.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.4}Summary for inference using the $t$ distribution}{176}{subsection.4.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.5}Pooled standard deviation estimate (special topic)}{176}{subsection.4.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Comparing many means with ANOVA (special topic)}{177}{section.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1}Is batting performance related to player position in MLB?}{179}{subsection.4.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.2}Analysis of variance (ANOVA) and the F test}{181}{subsection.4.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.3}Reading an ANOVA table from software}{183}{subsection.4.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.4}Graphical diagnostics for an ANOVA analysis}{184}{subsection.4.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.5}Multiple comparisons and controlling Type 1 Error rate}{184}{subsection.4.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Bootstrapping to study the standard deviation}{188}{section.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.1}Bootstrap samples and distributions}{188}{subsection.4.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.2}Inference using the bootstrap}{189}{subsection.4.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.3}Frequently asked questions}{192}{subsection.4.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.6}Exercises}{193}{section.4.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.6.1}One-sample means with the $t$ distribution}{193}{subsection.4.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.6.2}Paired data}{195}{subsection.4.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.6.3}Difference of two means}{197}{subsection.4.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.6.4}Comparing many means with ANOVA}{206}{subsection.4.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.6.5}Bootstrapping to study the standard deviation}{210}{subsection.4.6.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Introduction to linear regression}{212}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Line fitting, residuals, and correlation}{214}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.1}Beginning with straight lines}{214}{subsection.5.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.2}Fitting a line by eye}{216}{subsection.5.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.3}Residuals}{216}{subsection.5.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.4}Describing linear relationships with correlation}{219}{subsection.5.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Fitting a line by least squares regression}{220}{section.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.1}An objective measure for finding the best line}{221}{subsection.5.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.2}Finding the least squares line}{222}{subsection.5.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.3}Interpreting regression line parameter estimates}{225}{subsection.5.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.4}Extrapolation is treacherous}{225}{subsection.5.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.5}Using $R^2$ to describe the strength of a fit}{226}{subsection.5.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.6}Categorical predictors with two levels}{227}{subsection.5.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Types of outliers in linear regression}{228}{section.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Inference for linear regression}{231}{section.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.1}Conditions for the least squares line}{231}{subsection.5.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.2}Midterm elections and unemployment}{231}{subsection.5.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.3}Understanding regression output from software}{234}{subsection.5.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.4}An alternative test statistic}{236}{subsection.5.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.5}Exercises}{237}{section.5.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.1}Line fitting, residuals, and correlation}{237}{subsection.5.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.2}Fitting a line by least squares regression}{244}{subsection.5.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.3}Types of outliers in linear regression}{247}{subsection.5.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.4}Inference for linear regression}{247}{subsection.5.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Multiple and logistic regression}{254}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Introduction to multiple regression}{254}{section.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1.1}A single-variable model for the Mario Kart data}{255}{subsection.6.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1.2}Including and assessing many variables in a model}{256}{subsection.6.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1.3}Adjusted $R^2$ as a better estimate of explained variance}{258}{subsection.6.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Model selection}{259}{section.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.1}Identifying variables in the model that may not be helpful}{260}{subsection.6.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.2}Two model selection strategies}{261}{subsection.6.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}Checking model assumptions using graphs}{264}{section.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.4}Logistic regression}{268}{section.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.1}Email data}{269}{subsection.6.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.2}Modeling the probability of an event}{269}{subsection.6.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.3}Practical decisions in the email application}{273}{subsection.6.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.4}Diagnostics for the email classifier}{274}{subsection.6.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.5}Improving the set of variables for a spam filter}{276}{subsection.6.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.5}Exercises}{278}{section.6.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.5.1}Introduction to multiple regression}{278}{subsection.6.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.5.2}Model selection}{281}{subsection.6.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.5.3}Checking model assumptions using graphs}{283}{subsection.6.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.5.4}Logistic regression}{285}{subsection.6.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Probability}{288}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Defining probability}{288}{section.A.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.1}Probability}{289}{subsection.A.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.2}Disjoint or mutually exclusive outcomes}{290}{subsection.A.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.3}Probabilities when events are not disjoint}{292}{subsection.A.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.4}Probability distributions}{293}{subsection.A.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.5}Complement of an event}{294}{subsection.A.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.6}Independence}{297}{subsection.A.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}Conditional probability}{299}{section.A.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.2.1}Marginal and joint probabilities}{300}{subsection.A.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.2.2}Defining conditional probability}{301}{subsection.A.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.2.3}Smallpox in Boston, 1721}{303}{subsection.A.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.2.4}General multiplication rule}{304}{subsection.A.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.2.5}Independence considerations in conditional probability}{305}{subsection.A.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.2.6}Tree diagrams}{306}{subsection.A.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.3}Random variables}{308}{section.A.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.3.1}Expectation}{309}{subsection.A.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.3.2}Variability in random variables}{310}{subsection.A.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.3.3}Linear combinations of random variables}{312}{subsection.A.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.3.4}Variability in linear combinations of random variables}{314}{subsection.A.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {B}End of chapter exercise solutions}{317}{appendix.B}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {C}Distribution tables}{332}{appendix.C}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C.1}Normal Probability Table}{332}{section.C.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C.2}t Distribution Table}{335}{section.C.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C.3}Chi-Square Probability Table}{337}{section.C.3}

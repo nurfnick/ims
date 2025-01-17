@@ -1,0 +1,82 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: biblatex.bst
+A level-1 auxiliary file: extraTeX/preamble/copyright.aux
+A level-1 auxiliary file: extraTeX/preamble/preface.aux
+A level-1 auxiliary file: 01/TeX/01V8.aux
+A level-1 auxiliary file: 01/TeX/01e.aux
+A level-1 auxiliary file: 02/TeX/02-V04.aux
+A level-1 auxiliary file: 02/TeX/02e-V01.aux
+A level-1 auxiliary file: 03/TeX/03-V01.aux
+A level-1 auxiliary file: 03/TeX/03e-V01.aux
+A level-1 auxiliary file: 04/TeX/04-V01.aux
+A level-1 auxiliary file: 04/TeX/04e-V01.aux
+A level-1 auxiliary file: 05/TeX/05-V01.aux
+A level-1 auxiliary file: 05/TeX/05e-V01.aux
+A level-1 auxiliary file: 06/TeX/06-V01.aux
+A level-1 auxiliary file: 06/TeX/06e-V01.aux
+A level-1 auxiliary file: appendix-probability/TeX/02-V02.aux
+A level-1 auxiliary file: extraTeX/eoceSolutions/eoceSolutions.aux
+A level-1 auxiliary file: extraTeX/appendix/TeX/zTable.aux
+A level-1 auxiliary file: extraTeX/appendix/TeX/tTable.aux
+A level-1 auxiliary file: extraTeX/appendix/TeX/chiSquareTable.aux
+A level-1 auxiliary file: extraTeX/index/index.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 15472 items from 5000.
+Database file #1: main-blx.bib
+Database file #2: eoce.bib
+Biblatex version: 2.6
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 77 entries,
+            6019 wiz_defined-function locations,
+            1499 strings with 24871 characters,
+and the built_in function-call counts, 182400 in all, are:
+= -- 6601
+> -- 4366
+< -- 1758
++ -- 1491
+- -- 1556
+* -- 11638
+:= -- 8738
+add.period$ -- 0
+call.type$ -- 77
+change.case$ -- 727
+chr.to.int$ -- 43
+cite$ -- 152
+duplicate$ -- 22331
+empty$ -- 22219
+format.name$ -- 3070
+if$ -- 42119
+int.to.chr$ -- 0
+int.to.str$ -- 138
+missing$ -- 0
+newline$ -- 1378
+num.names$ -- 1967
+pop$ -- 24827
+preamble$ -- 1
+purify$ -- 828
+quote$ -- 0
+skip$ -- 10297
+stack$ -- 0
+substring$ -- 2722
+swap$ -- 6718
+text.length$ -- 1526
+text.prefix$ -- 82
+top$ -- 1
+type$ -- 2913
+warning$ -- 0
+while$ -- 816
+width$ -- 0
+write$ -- 1300
